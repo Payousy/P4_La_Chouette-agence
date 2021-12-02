@@ -1,0 +1,18 @@
+header {
+    width: 100%;
+}
+
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.black-color {
+    color: black;
+}
+
+
+
+footer {
+    margin-top: 50px;
+}
